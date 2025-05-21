@@ -9,9 +9,13 @@ sidings, TrainSnap captures the essence of Australia's rail heritage and present
 ![Size of Codebase](https://img.shields.io/github/languages/code-size/cheng-alvin/trainsnap)
 ![License](https://img.shields.io/github/license/cheng-alvin/trainsnap)
 
-### License
+### 📜 License
 All the code under the TrainSnap project repository is licensed under the MIT license which is a popular open-source license for 
-projects like this! Please see [LICENSE](https://github.com/cheng-alvin/trainsnap/blob/main/LICENSE) for the details.
+projects like this! Please see [LICENSE](https://github.com/cheng-alvin/trainsnap/blob/main/LICENSE) for the details. All code 
+and work listed on the TrainSnap project is Free for personal use, limitations may be imposed for commerical usage, please contact
+eventide1029@gmail.com for more information!
+
+### Contributing
 
 ---
 Made with love in Melbourne, Victoria ❤️
