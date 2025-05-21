@@ -6,7 +6,7 @@ sidings, TrainSnap captures the essence of Australia's rail heritage and present
 
 ![](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)
 ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)
-![Size of Codebase](https://img.shields.io/github/languages/code-size/cheng-alvin/trainsnap")
+![Size of Codebase](https://img.shields.io/github/languages/code-size/cheng-alvin/trainsnap)
 ![License](https://img.shields.io/github/license/cheng-alvin/trainsnap)
 
 ### License
